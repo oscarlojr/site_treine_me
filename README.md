@@ -7,7 +7,7 @@
 </p>
 
  <h1 align="center"> 
-  <img alt="shift_alt" title="#shift_alt" src="./imagens/site_treineme.png" />
+  <img alt="shift_alt" title="#shift_alt" src="./images/site_treineme.png" />
 </h1>
 
 <p>O que acha de acessar o projeto? </p> <a href="https://oscarlojr.github.io/site_treine_me/" target="_blank">Tela Inicial</a>
